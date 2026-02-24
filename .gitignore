@@ -1,0 +1,8 @@
+venv/
+redis-stable/
+.env
+__pycache__/
+*.db
+data/sample.pdf
+data/TSLA-Q2-2025-Update.pdf
+celerybeat-schedule
